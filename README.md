@@ -1,59 +1,38 @@
-<h1 align="center"> 
-  👋 Hi, I'm Naresh Kumar!  
-</h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/5Lz1mF8.png" width="200" alt="Profile Image">
-</p>
+![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
----
+  ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
+  
+### Hey, folks! 👋
 
-### 🚀 About Me  
-🎓 **B.Tech Information Technology** student at **PSNACET**  
-💡 Passionate about **User Interface & Frontend Development**  
-⚡ Love creating **interactive & engaging web experiences**  
+- 🔭 I’m currently working on my personal projects based on Java
+- 🌱 I’m currently learning and discussing emerging technologies! I'm always interested in learning about new tech.
+- 👯 I’m looking to collaborate on Frontend development based projects.
+- 📫 How to reach me: nareshk7800@gmail.com
+- ⚡ Fun fact: Sometimes I fix the production bug by commenting the code!
 
----
+<h3 align="left">Languages and Tools:</h3>
 
-### 🔧 Tech Stack  
-#### 🖥️ Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-#### 🎨 UI/UX  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Adobe XD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)  
+<br />
+<br />
+<img align="right" src="https://camo.githubusercontent.com/4f75d5e2676e289639485de2353898e60b7ded06737cb0945c945e02801d496c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d72616a64616d61267374796c653d666c61742d73717561726526636f6c6f723d323332333233" data-canonical-src="https://komarev.com/ghpvc/?username=nareshk7800&style=flat-square&color=232323" style="max-width: 100%;">
 
-#### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshk7800&show_icons=true&locale=en&count_private=true&theme=radical" alt="nareshk7800" /></p>
 
----
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nareshk7800&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
----
 
-### 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
 
----
+<!--
+**Potential17/Potential17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nareshk7800/count.svg" />
-</p>
+
+
+
+
