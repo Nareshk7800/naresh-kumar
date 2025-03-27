@@ -1,4 +1,3 @@
-
 ![Github](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 
   ![counter](https://en8l8xuwaoz0mtq.m.pipedream.net)
@@ -26,13 +25,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nareshk7800&show_icons=true&locale=en&count_private=true&theme=radical" alt="nareshk7800" /></p>
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nareshk7800/)
 
 
 
 <!--
-**Potential17/Potential17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
+**Potential17/Potential17** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
